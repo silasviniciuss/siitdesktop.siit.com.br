@@ -1,0 +1,14 @@
+body,
+html {
+  height: 101%;
+  position: absolute;
+  margin: 0 auto;
+  width: 100%;
+}
+
+body {
+  background-image: url(../images/background.jpg);
+  /* background-size: 100% 100%;
+  position: relative;
+  height: 100%; */
+}
